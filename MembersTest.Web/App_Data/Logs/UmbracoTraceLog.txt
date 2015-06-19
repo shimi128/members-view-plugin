@@ -2,3 +2,4 @@
 2015-06-19 06:19:43,788 [36] INFO  umbraco.BusinessLogic.Log - [Thread 102] Log scrubbed.  Removed all items older than 2015-04-20 06:19:43
 2015-06-19 10:19:43,790 [36] INFO  umbraco.BusinessLogic.Log - [Thread 63] Log scrubbed.  Removed all items older than 2015-04-20 10:19:43
 2015-06-19 14:19:41,146 [36] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-04-20 14:19:41
+2015-06-19 16:25:42,192 [36] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 75] Application shutdown. Reason: ConfigurationChange
