@@ -32,6 +32,7 @@ namespace MembersPlugin.Services.Memebers
             return members.Select(MapMember);
         }
 
+
         private Member MapMember(IMember member)
         {
             return member as Member;
