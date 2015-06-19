@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dashBoard xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+  <section  alias="StartupDashboardSection">
+    <tab xdt:Transform="RemoveAll" xdt:Locator="Condition(@caption='Members')" caption="Members">
+      <control  addPanel="false" showOnce="true" panelCaption="">/app_plugins/Members/memberssashbord.html</control>
+    </tab>
+  </section>
+</dashBoard>
+

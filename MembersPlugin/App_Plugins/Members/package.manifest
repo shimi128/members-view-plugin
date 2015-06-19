@@ -1,0 +1,20 @@
+﻿{
+	propertyEditors:[{
+		alias:'NgSoft.MembersEditor',
+		restrict:'E',
+		name: 'Members',
+		editor:{
+			view:'~/App_Plugins/Members/memberssashbord.html',
+			hideLabel: true,
+		}
+	
+	}
+			
+	]
+	,
+	javascript: [
+        '~/App_Plugins/Members/members.controller.js'
+      
+
+    ]
+}
